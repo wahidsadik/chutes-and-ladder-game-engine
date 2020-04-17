@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/wahidsadik/chutes-and-ladder-game-engine/badge.svg?branch=master)](https://coveralls.io/github/wahidsadik/chutes-and-ladder-game-engine?branch=master)
+
 # About
 
 This repo is for a simple game-engine for *chutes-and-ladders* game. While playing the physical game with my kids, I had an itch to build a computer game of it. Hence, this codebase.
