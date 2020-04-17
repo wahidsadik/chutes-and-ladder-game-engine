@@ -1,0 +1,7 @@
+[dev-packages]
+flake8 = "*"
+
+[packages]
+
+[requires]
+python_verion = "3.7"
